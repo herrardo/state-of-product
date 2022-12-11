@@ -7,17 +7,21 @@ export default {
             {
                 text: 'Events',
                 items: [
-                    { text: '2023 Events', link: '/events/2023/' },
-                    { text: '2022 Events', link: '/events/2022/' }
+                    { text: '2023 Events', link: '/events/2023/' }
                 ]
             },
             {
                 text: 'Certifications',
                 items: [
-                    { text: 'Comparative', link: '/certifications/' }
+                    { text: 'Index', link: '/certifications/' }
                 ]
             }
-        ]
+        ],
+        editLink: {
+            pattern: 'https://github.com/herrardo/state-of-product/edit/main/docs/:path',
+            text: 'Edit this page on GitHub'
+        },
+        lastUpdated: true
     },
     base: '/state-of-product/'
 }
