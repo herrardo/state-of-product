@@ -1,0 +1,25 @@
+{
+  "name": "state-of-product",
+  "version": "0.0.0",
+  "description": "State of the Product Management World",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrardo/state-of-product.git"
+  },
+  "author": "herr.ardo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herrardo/state-of-product/issues"
+  },
+  "homepage": "https://github.com/herrardo/state-of-product#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.31",
+    "vue": "^3.2.45"
+  }
+}
