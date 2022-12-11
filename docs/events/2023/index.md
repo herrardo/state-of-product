@@ -14,9 +14,8 @@ head:
 
 ## January
 
-|  Date  | Event Name         |   Location |
-| :----: | ------------------ | ---------: |
-
+| Date | Event Name | Location |
+| :--: | ---------- | -------: |
 
 ## February
 
@@ -59,10 +58,10 @@ head:
 
 ## June
 
-|   Date    | Event Name                                                                           |         Location |
-| :-------: | ------------------------------------------------------------------------------------ |-----------------:|
-| Jun 28-30 | [Mind The Product Engage Hamburg](https://www.mindtheproduct.com/mtpengage/hamburg/) |          Hamburg |
-| Jun 28–30 | [Product at Heart](https://productatheart.com/)                                      |          Hamburg |
+|   Date    | Event Name                                                                           | Location |
+| :-------: | ------------------------------------------------------------------------------------ | -------: |
+| Jun 28-30 | [Mind The Product Engage Hamburg](https://www.mindtheproduct.com/mtpengage/hamburg/) |  Hamburg |
+| Jun 28–30 | [Product at Heart](https://productatheart.com/)                                      |  Hamburg |
 
 ## July
 
@@ -87,7 +86,7 @@ head:
 | :-------: | ------------------------------------------------------------------------------- | --------------: |
 |    Oct    | [ProductCon San Francisco](https://productschool.com/productcon/san-francisco/) |         SF Area |
 |  Oct 2-4  | [Industry Product Conference Global](https://www.industryconference.com/global) |       Cleveland |
-| Oct 11–13 | UXDX EMEA                                                                       | Dublin & online |
+| Oct 11–13 | [UXDX EMEA](https://uxdx.com/emea/2023/)                                        | Dublin & online |
 
 ## November
 

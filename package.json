@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/herrardo/state-of-product#readme",
   "devDependencies": {
+    "prettier": "2.8.1",
     "vitepress": "^1.0.0-alpha.31",
     "vue": "^3.2.45"
   }
