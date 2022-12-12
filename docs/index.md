@@ -11,7 +11,7 @@ hero:
     link: https://github.com/herrardo/state-of-product
 features:
   - icon: 🗣️
-    title: 2022 Product Management Events
+    title: 2023 Product Management Events
     link: /events/2023/
   - icon: 👩‍🎓
     title: Product Management Certifications
