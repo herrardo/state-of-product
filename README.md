@@ -68,6 +68,8 @@ This project pretends to track the State of The Product where anybody can update
   </ul>
 </details>
 
+## 	:toolbox: Getting Started
+
 ### :bangbang: Prerequisites
 
 This project uses `npm` as package manager
@@ -131,9 +133,7 @@ Distributed under [MIT License](./LICENSE)
 
 ## :gem: Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
-
 - [Shields.io](https://shields.io/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Awesome README Template](https://github.com/Louis3797/awesome-readme-template)
 - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
 - [VitePress](https://vitepress.vuejs.org/)
