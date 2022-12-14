@@ -102,6 +102,14 @@ Once launched you should see the preview locally in your computer: http://localh
 
 <!-- Roadmap -->
 
+### :triangular_flag_on_post: Deployment
+
+This project is deployed with GH Pages in this URL:
+
+[https://herrardo.github.io/state-of-product/](https://herrardo.github.io/state-of-product/)
+
+Every new commit to main in the project automatically deploys.
+
 ## :compass: Roadmap
 
 - [x] Add Product Events
