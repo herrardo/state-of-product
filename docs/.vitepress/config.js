@@ -2,8 +2,8 @@ export default {
     title: 'State of the Product',
     description: 'This is a summary of Product Management events, conferences and certifications',
     head: [
-        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/favicons/favicon-32x32.png"}],
-        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/favicons/favicon-16x16.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "assets/favicons/favicon-32x32.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "assets/favicons/favicon-16x16.png"}],
     ],
     lang: 'en-US',
     themeConfig: {
