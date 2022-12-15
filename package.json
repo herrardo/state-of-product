@@ -1,6 +1,6 @@
 {
   "name": "state-of-product",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "State of the Product Management World",
   "main": "index.js",
   "scripts": {
