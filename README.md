@@ -1,5 +1,6 @@
 <div align="center">
 
+  <img src="docs/public/assets/logo-color.png" alt="logo" width="200" height="auto" />
   <h1>State of The Product</h1>
 
   <p>
@@ -137,3 +138,4 @@ Distributed under [MIT License](./LICENSE)
 - [Awesome README Template](https://github.com/Louis3797/awesome-readme-template)
 - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
 - [VitePress](https://vitepress.vuejs.org/)
+- [Product icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/product)
