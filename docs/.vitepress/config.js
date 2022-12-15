@@ -4,6 +4,7 @@ export default {
     head: [
         ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "assets/favicons/favicon-32x32.png"}],
         ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "assets/favicons/favicon-16x16.png"}],
+        ['script', { defer:true, 'data-domain': "herrardo.github.io/state-of-product",src: "https://plausible.io/js/script.js"}],
     ],
     lang: 'en-US',
     themeConfig: {
