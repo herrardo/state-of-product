@@ -33,6 +33,7 @@ head:
 |  Mar 14   | [Chief Product Officer Summit NY](https://world.productledalliance.com/location/cponewyork) |      New York |
 | Mar 14-15 | [Product-Led Summit NY](https://world.productledalliance.com/location/newyork)              |      New York |
 | Mar 14-15 | [Product Ops Summit NY](https://world.productledalliance.com/location/popsnewyork)          |      New York |
+| Mar 20-22 | [Industry Product Conference Dublin](https://www.industryconference.com/europe)             |        Dublin |
 | Mar 27–28 | [Business of Software](https://businessofsoftware.org/events/europe-23/)                    | Cambridge, UK |
 
 ## April
