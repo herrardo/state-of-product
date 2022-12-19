@@ -47,6 +47,7 @@ head:
 |   Date    | Event Name                                                                                      |          Location |
 | :-------: | ----------------------------------------------------------------------------------------------- | ----------------: |
 |   May 4   | [Industry Product Conference New York](https://www.industryconference.com/new-york)             |          New York |
+| May 9-10  | [Women in Product](https://womenpm.org/conference/)                                             |            Online |
 | May 10-11 | [Product-Led Summit Amsterdam](https://world.productledalliance.com/location/amsterdam)         |         Amsterdam |
 | May 24-25 | [Industry Product Conference Las Vegas](https://world.productledalliance.com/location/lasvegas) |         Las Vegas |
 | May 16–18 | [UXDX USA](https://uxdx.com/usa/2023/)                                                          | New York & online |
@@ -91,9 +92,10 @@ head:
 
 ## November
 
-| Date  | Event Name                                                                              |  Location |
-| :---: | --------------------------------------------------------------------------------------- | --------: |
-| Nov 1 | [Product-Led Summit Sidney](https://world.productledalliance.com/location/sydney)       |    Sidney |
-| Nov 8 | [Product-Led Summit Singapore](https://world.productledalliance.com/location/singapore) | Singapore |
+|   Date    | Event Name                                                                              |    Location |
+| :-------: | --------------------------------------------------------------------------------------- | ----------: |
+|   Nov 1   | [Product-Led Summit Sidney](https://world.productledalliance.com/location/sydney)       |      Sidney |
+|   Nov 8   | [Product-Led Summit Singapore](https://world.productledalliance.com/location/singapore) |   Singapore |
+| Nov 15-16 | [PMF Europe](https://productmanagementfestival.com/tickets/)                            | Switzerland |
 
 ## December
