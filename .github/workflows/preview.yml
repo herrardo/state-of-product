@@ -1,22 +1,32 @@
-name: 🔂 Surge PR Preview
+name: Deploy PR previews
 
 on:
   pull_request:
-    # when using teardown: 'true', add default event types + closed event type
-    types: [opened, synchronize, reopened, closed]
-  push:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+concurrency: preview-${{ github.ref }}
 
 jobs:
-  preview:
+  deploy-preview:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: afc163/surge-preview@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+          with:
+            node-version: 16
+            cache: 'npm'
+            - run: npm ci
+
+            - name: Build
+              run: npm run docs:build
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
         with:
-          surge_token: ${{ secrets.SURGE_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          dist: docs/.vitepress/dist
-          teardown: "true"
-          build: |
-            npm install
-            npm run docs:build
+          source-dir: docs/.vitepress/dist
