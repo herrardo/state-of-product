@@ -1,4 +1,4 @@
-name: Deploy PR previews
+name: PR Preview to GH Pages
 
 on:
   pull_request:
@@ -8,15 +8,29 @@ on:
       - synchronize
       - closed
 
-concurrency: preview-${{ github.ref }}
-
 jobs:
-  deploy-preview:
+  deploy:
     runs-on: ubuntu-latest
+    env:
+      PR_PATH: pull/${{github.event.number}}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Comment on PR
+        uses: hasura/comment-progress@v2.2.0
+        if: github.ref != 'refs/heads/main'
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          number: ${{ github.event.number }}
+          id: deploy-preview
+          message: "Starting deployment of preview ⏳..."
 
+      - name: Set domain
+        run: echo "DOMAIN=${{ github.actor }}.github.io" >> $GITHUB_ENV
+
+      - name: Checkout website repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v3
         with:
           node-version: 16
@@ -26,7 +40,25 @@ jobs:
       - name: Build
         run: npm run docs:build
 
-      - name: Deploy preview
-        uses: rossjrw/pr-preview-action@v1
+      - name: Set base URL for preview if PR
+        if: github.ref != 'refs/heads/main'
+        run: echo "BASE_URL=https://${{ env.DOMAIN }}/${{ github.event.repository.name }}/${{ env.PR_PATH}}/" >> $GITHUB_ENV
+
+      - name: Deploy to PR preview
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref != 'refs/heads/main'
         with:
-          source-dir: docs/.vitepress/dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs/.vitepress/dist
+          destination_dir: ${{ env.PR_PATH }}
+
+      - name: Update comment
+        uses: hasura/comment-progress@v2.2.0
+        if: github.ref != 'refs/heads/main'
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          number: ${{ github.event.number }}
+          id: deploy-preview
+          message: "A preview of ${{ github.event.after }} is uploaded and can be seen here:\n\n ✨ ${{ env.BASE_URL }} ✨\n\nChanges may take a few minutes to propagate. Since this is a preview of production, content with `draft: true` will not be rendered. The source is here: https://github.com/${{ github.repository }}/tree/gh-pages/${{ env.PR_PATH }}/"
+
