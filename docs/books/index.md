@@ -15,7 +15,7 @@ head:
 
 ## If you're starting your PM career :muscle:
 :::info
-- [Escaping the Build Trap: How Effective Product Management](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/ref=sr_1_1?keywords=escaping+the+build+trap&qid=1648043000&s=books&sprefix=esca%2Cstripbooks-intl-ship%2C142&sr=1-1)
+- [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/ref=sr_1_1?keywords=escaping+the+build+trap&qid=1648043000&s=books&sprefix=esca%2Cstripbooks-intl-ship%2C142&sr=1-1)
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=sr_1_1?crid=2WSW6XCL1MVUX&keywords=inspired&qid=1648043200&s=books&sprefix=inspired%2Cstripbooks-intl-ship%2C146&sr=1-1)
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?keywords=the+lean+startup&qid=1648050636&s=books&sprefix=the+lean+%2Cstripbooks-intl-ship%2C172&sr=1-1)
 - [Product Management in Practice: A Real-World Guide to the Key Connective Role of the 21st Century](https://www.amazon.es/Product-Management-Practice-Matt-LeMay/dp/1491982276)
@@ -32,7 +32,6 @@ head:
 - [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_1?crid=273XPMH7UZRH3&keywords=Measure+what+matters&qid=1648041022&sprefix=measure+what+matter%2Caps%2C140&sr=8-1)
 ### Discovery
 - [Validating Product Ideas: Through Lean User Research](https://www.amazon.com/Validating-Product-Ideas-Through-Research/dp/1933820292/ref=asap_bc?ie=UTF8)
-- [Product Srategy Workshop](https://www.gibsonbiddle.com/workshops)
 - [It's Our Research: Getting Stakeholder Buy-in for User Experience Research Projects](https://www.amazon.com/Its-Our-Research-Stakeholder-Buy/dp/0123851300/ref=asap_bc?ie=UTF8)
 - [Talking to Humans: Success starts with understanding your customers](https://www.amazon.com/Talking-Humans-Success-understanding-customers/dp/099080092X/ref=tmm_pap_title_0?ie=UTF8&qid=1412219409&sr=8-1)
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?keywords=sprint+how+to+solve+big+problems&qid=1648041344&sprefix=sprint+how+to%2Caps%2C142&sr=8-1)
