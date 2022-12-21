@@ -10,7 +10,7 @@ head:
     content: product,product manager,product management,product owner,podcasts, audio
 ---
 
-# Product Management Podcasts
+# {{ $frontmatter.title }}
 
 
 ## Podcasts :sound:

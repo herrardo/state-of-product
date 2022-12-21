@@ -10,7 +10,7 @@ head:
     content: product,product manager,product management,product owner,books, reading
 ---
 
-# Product Management Books
+# {{ $frontmatter.title }}
 
 
 ## If you're starting your PM career :muscle:

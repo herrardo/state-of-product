@@ -37,8 +37,7 @@ export default {
       { text: "Events", link: "/events/2023/product.md" },
       { text: "Certifications", link: "/certifications/scrum/" },
       { text: "Courses", link: "/courses/" },
-      { text: "Podcasts", link: "/podcasts/" },
-      { text: "Books", link: "/books/" },
+      { text: "Media", link: "/media/podcasts/" },
     ],
     sidebar: [
       {
@@ -58,12 +57,13 @@ export default {
         items: [{ text: "Product Courses", link: "/courses/" }],
       },
       {
-        text: "Podcasts",
-        items: [{ text: "Product Podcasts", link: "/podcasts/" }],
-      },
-      {
-        text: "Books",
-        items: [{ text: "Product Books", link: "/books/" }],
+        text: "Media",
+        items: [
+            { text: "Podcasts", link: "/media/podcasts/" },
+            { text: "Books", link: "/media/books/" },
+            { text: "Slack Communities", link: "/media/slack/" },
+            { text: "Blogs/Newsletters", link: "/media/blogs/" },
+        ],
       },
     ],
     editLink: {

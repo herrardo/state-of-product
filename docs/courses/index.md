@@ -10,7 +10,7 @@ head:
     content: product,product manager,product management,product owner,courses, training, learning
 ---
 
-# Product Management Courses
+# {{ $frontmatter.title }}
 
 
 ## If you're starting your PM career :muscle:
