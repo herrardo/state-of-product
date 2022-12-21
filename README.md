@@ -54,7 +54,8 @@
 
 ## :star2: About the Project
 
-This project pretends to track the State of The Product where anybody can update the information relative to:
+This project pretends to track the State of The Product where anybody can update
+the information relative to:
 
 - Product Conferences and events
 - Product Certification information
@@ -69,7 +70,7 @@ This project pretends to track the State of The Product where anybody can update
   </ul>
 </details>
 
-## 	:toolbox: Getting Started
+## :toolbox: Getting Started
 
 ### :bangbang: Prerequisites
 
@@ -101,7 +102,8 @@ Start the server
   npm run docs:dev
 ```
 
-Once launched you should see the preview locally in your computer: http://localhost:5173/state-of-product/
+Once launched you should see the preview locally in your computer:
+http://localhost:5173/state-of-product/
 
 <!-- Roadmap -->
 
@@ -122,11 +124,15 @@ Every new commit to main in the project automatically deploys.
 
 ## :wave: Contributing
 
-Working on it ;)
+Contributions are always welcome!
+
+See our [Contributing Guidelines](.github/CONTRIBUTING.md) to know how to help
+the project adding new contents or proposing ideas.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/herrardo/state-of-product/blob/main/.github/CODE_OF_CONDUCT.md)
+Please read the
+[Code of Conduct](https://github.com/herrardo/state-of-product/blob/main/.github/CODE_OF_CONDUCT.md)
 
 ## :warning: License
 
