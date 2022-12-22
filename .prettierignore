@@ -1,0 +1,4 @@
+*.vue
+dist
+package-lock.json
+cache

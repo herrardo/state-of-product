@@ -2,19 +2,21 @@
 title: Product Management Books
 lang: en-US
 head:
-- - meta
-  - name: description
-    content: List of curated product management books
-- - meta
-  - name: keywords
-    content: product,product manager,product management,product owner,books, reading
+  - - meta
+    - name: description
+      content: List of curated product management books
+  - - meta
+    - name: keywords
+      content:
+        product,product manager,product management,product owner,books, reading
 ---
 
 # {{ $frontmatter.title }}
 
-
 ## If you're starting your PM career :muscle:
+
 :::info
+
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/ref=sr_1_1?keywords=escaping+the+build+trap&qid=1648043000&s=books&sprefix=esca%2Cstripbooks-intl-ship%2C142&sr=1-1)
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=sr_1_1?crid=2WSW6XCL1MVUX&keywords=inspired&qid=1648043200&s=books&sprefix=inspired%2Cstripbooks-intl-ship%2C146&sr=1-1)
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?keywords=the+lean+startup&qid=1648050636&s=books&sprefix=the+lean+%2Cstripbooks-intl-ship%2C172&sr=1-1)
@@ -22,45 +24,61 @@ head:
 - [The Art of Product Management: Lessons from a Silicon Valley Innovator](https://www.amazon.com/Art-Product-Management-Lessons-Innovator/dp/1439216061/ref=sr_1_1?ie=UTF8&qid=1478552475&sr=8-1&keywords=the+art+of+product+management)
 - [Strategize: Product Strategy and Product Roadmap Practices for the Digital Age](https://www.amazon.com/Strategize-Product-Strategy-Roadmap-Practices/dp/0993499201)
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_1?crid=389FJQOQDB8G0&keywords=start+with+why&qid=1648043103&s=books&sprefix=start%2Cstripbooks-intl-ship%2C142&sr=1-1)
-:::
-
+  :::
 
 ## If you're growing your PM career :rocket:
+
 :::info
+
 ### Goals
+
 - [Radical Focus SECOND EDITION: Achieving Your Goals with Objectives and Key Results](https://www.amazon.com/Radical-Focus-SECOND-Achieving-Objectives/dp/1955469016/ref=sr_1_2?crid=2PLJUZAH57O4J&keywords=Radical+Focus&qid=1648041071&sprefix=radical+focus%2Caps%2C143&sr=8-2)
 - [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=sr_1_1?crid=273XPMH7UZRH3&keywords=Measure+what+matters&qid=1648041022&sprefix=measure+what+matter%2Caps%2C140&sr=8-1)
+
 ### Discovery
+
 - [Validating Product Ideas: Through Lean User Research](https://www.amazon.com/Validating-Product-Ideas-Through-Research/dp/1933820292/ref=asap_bc?ie=UTF8)
 - [It's Our Research: Getting Stakeholder Buy-in for User Experience Research Projects](https://www.amazon.com/Its-Our-Research-Stakeholder-Buy/dp/0123851300/ref=asap_bc?ie=UTF8)
 - [Talking to Humans: Success starts with understanding your customers](https://www.amazon.com/Talking-Humans-Success-understanding-customers/dp/099080092X/ref=tmm_pap_title_0?ie=UTF8&qid=1412219409&sr=8-1)
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?keywords=sprint+how+to+solve+big+problems&qid=1648041344&sprefix=sprint+how+to%2Caps%2C142&sr=8-1)
 - [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742/ref=sr_1_1?crid=3OS3241KQ7XL2&keywords=The+mom+test&qid=1648041317&sprefix=the+mom+tes%2Caps%2C140&sr=8-1)
 - [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309/ref=sr_1_1?keywords=continuous+discovery+habits&qid=1648041289&sprefix=continuous+disco%2Caps%2C148&sr=8-1)
+
 ### User Stories & Specs
+
 - [Intercom on Jobs‑to‑be‑Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)
 - [The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683/ref=sr_1_1?keywords=the+jobs+to+be+done+playbook&qid=1648041604&sprefix=the+jobs+to%2Caps%2C140&sr=8-1)
 - [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/ref=sr_1_1?crid=12EUEO7PFAF03&keywords=User+story+mapping&qid=1648041579&sprefix=user+story+mapping%2Caps%2C155&sr=8-1)
-### User Behaviour 
+
+### User Behaviour
+
 - [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X)
 - [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?keywords=dont+make+me+think&qid=1648042871&sprefix=dont+make+me%2Caps%2C142&sr=8-1)
 - [The Design Of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?keywords=the+design+of+everyday+things&qid=1648041843&sprefix=the+design+of%2Caps%2C145&sr=8-1)
 - [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248/ref=sr_1_1?keywords=predictably+irrational&qid=1648041806&sprefix=predic%2Caps%2C149&sr=8-1)
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?keywords=thinking+fast+and+slow&qid=1648041673&sprefix=thinking+%2Caps%2C149&sr=8-1)
 - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?keywords=hooked+how+to+build+habit+forming+products&qid=1648041634&sprefix=hooked+how+to+b%2Caps%2C137&sr=8-1)
+
 ### Product Market Fit
+
 - [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/1119690684/ref=sr_1_1?keywords=the+startup+owner%27s+manual&qid=1648041210&sprefix=The+startup+ow%2Caps%2C143&sr=8-1)
 - [The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201/ref=sr_1_1?crid=1139DM77DSN2N&keywords=The+startup+way&qid=1648041161&sprefix=the+startup+way%2Caps%2C142&sr=8-1)
 - [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1648041114&sr=8-1)
+
 ### Growth
+
 - [Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising](https://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising/dp/1591847389/ref=sr_1_1?keywords=growth+hacker+marketing&qid=1648041759&sprefix=growth+ha%2Caps%2C139&sr=8-1)
 - [Product-Led Growth: How to Build a Product That Sells Itself (Product-Led Growth Series)](https://www.amazon.com/Product-Led-Growth-Build-Product-Itself/dp/1798434520/ref=sr_1_1?keywords=product+lead+growth&qid=1648041735&sprefix=product+lead+gr%2Caps%2C160&sr=8-1)
 - [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X/ref=sr_1_1?keywords=hacking+growth&qid=1648041700&sprefix=hacking+gr%2Caps%2C141&sr=8-1)
+
 ### Strategy/Positioning
+
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.svpg.com/inspired-workshop/)
 - [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
 - [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005/ref=sr_1_1?crid=2K2WCFCIA1JLF&keywords=obviously+awesome&qid=1648041255&sprefix=obviously+aw%2Caps%2C150&sr=8-1)
+
 ### Commons/Influence
+
 - [Behavior-Driven Development with Cucumber: Better Collaboration for Better Software](https://www.amazon.com/Behavior-Driven-Development-Cucumber-Specification-Example/dp/0321772636)
 - [Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X/ref=sr_1_1?crid=33EM7O43F9V59&keywords=product+roadmaps+relaunched&qid=1648041554&sprefix=product+roadmap%2Caps%2C137&sr=8-1)
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287/ref=sr_1_1?keywords=made+to+stick&qid=1648042844&sprefix=made+to+%2Caps%2C151&sr=8-1)
@@ -70,16 +88,19 @@ head:
 - [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/ref=sr_1_1?crid=3JXWR0UF8F2C5&keywords=how+to+win+friends+and+influence+people&nav_sdd=aps&qid=1648042057&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sprefix=how+to+win&sr=1-1)
 - [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/ref=sr_1_1?crid=30KB6J8ENFR8G&keywords=getting+to+yes&qid=1648041910&sprefix=getting+to+yes%2Caps%2C144&sr=8-1)
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/ref=sr_1_1?crid=1ZHPP55KCCVXN&keywords=creativity+inc&qid=1648041884&sprefix=creativity+inc%2Caps%2C146&sr=8-1)
+
 ### Data
+
 - [Data Mesh: Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398/ref=sr_1_fkmr0_1?keywords=Data+Mesh+%3A+Delivering+Data-Driven+Value+at+Scale.+Ab+GV.&qid=1656690206&s=books&sr=1-1-fkmr0)
 - [How to Measure Anything: Finding the Value of "Intangibles" in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/0470110120/ref=sr_1_7?keywords=how+to+measure+anything&qid=1648042933&s=books&sprefix=how+to+meas%2Cstripbooks-intl-ship%2C139&sr=1-7)
 - [Lean Analytics: Use Data to Build a Better Startup Faster](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675/ref=sr_1_1?keywords=lean+analytics&qid=1648042912&s=books&sprefix=lean+ana%2Cstripbooks%2C149&sr=1-1)
 - [How to Lie with Statistics](https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=sr_1_1?keywords=how+to+lie+with+statistics&qid=1648042895&sprefix=how+to+lie%2Caps%2C148&sr=8-1)
-:::
-
+  :::
 
 ## If you're moving into a leadership track :trophy:
+
 :::info
+
 - [Hiring Product Managers: Using Product EQ to go beyond culture and skills](https://www.amazon.com/Hiring-Product-Managers-beyond-culture/dp/B09RFYCGL9)
 - [Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)
 - [Strong Product People: A Complete Guide to Developing Great Product Managers](https://www.amazon.com/Strong-Product-People-Complete-Developing-ebook/dp/B08V17D4R4/ref=sr_1_1?crid=3QI0J5JA9K6VD&keywords=strong+product+people&qid=1649179546&s=digital-text&sprefix=strong+product+peopl%2Cdigital-text%2C143&sr=1-1)
@@ -104,4 +125,4 @@ head:
 - [Radical Candor: How to Get What You Want by Saying What You](https://www.amazon.com/Radical-Candor-What-Want-Saying/dp/1509845364/ref=sr_1_5?keywords=radical+candor&qid=1648043080&s=books&sprefix=radical+%2Cstripbooks-intl-ship%2C147&sr=1-5)
 - [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/ref=sr_1_1?crid=35XBRU1MDOMKC&keywords=dare+to+lead&qid=1648043022&s=books&sprefix=dare+to+lead%2Cstripbooks-intl-ship%2C135&sr=1-1)
 - [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?crid=2NNIWYHUP32XV&keywords=good+to+great&qid=1648133418&s=books&sprefix=good+to+great%2Cstripbooks-intl-ship%2C169&sr=1-1)
-:::
+  :::

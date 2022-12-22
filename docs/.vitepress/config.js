@@ -34,35 +34,78 @@ export default {
   themeConfig: {
     logo: "assets/logo-color.png",
     nav: [
-      { text: "Events", link: "/events/2023/product.md" },
-      { text: "Certifications", link: "/certifications/scrum/" },
-      { text: "Courses", link: "/courses/" },
-      { text: "Media", link: "/media/podcasts/" },
+      {
+        text: "Events",
+        link: "/events/2023/product.md",
+      },
+      {
+        text: "Certifications",
+        link: "/certifications/scrum/",
+      },
+      {
+        text: "Courses",
+        link: "/courses/",
+      },
+      {
+        text: "Media",
+        link: "/media/podcasts/",
+      },
     ],
     sidebar: [
       {
         text: "Events",
         items: [
-          { text: "2023 Product Events", link: "/events/2023/product.md" },
-          { text: "2023 Agile Events", link: "/events/2023/agile.md" },
-          { text: "2023 UX/Design Events", link: "/events/2023/ux.md" },
+          {
+            text: "2023 Product Events",
+            link: "/events/2023/product.md",
+          },
+          {
+            text: "2023 Agile Events",
+            link: "/events/2023/agile.md",
+          },
+          {
+            text: "2023 UX/Design Events",
+            link: "/events/2023/ux.md",
+          },
         ],
       },
       {
         text: "Certifications",
-        items: [{ text: "scrum.org", link: "/certifications/scrum/" }],
+        items: [
+          {
+            text: "scrum.org",
+            link: "/certifications/scrum/",
+          },
+        ],
       },
       {
         text: "Courses",
-        items: [{ text: "Product Courses", link: "/courses/" }],
+        items: [
+          {
+            text: "Product Courses",
+            link: "/courses/",
+          },
+        ],
       },
       {
         text: "Media",
         items: [
-            { text: "Podcasts", link: "/media/podcasts/" },
-            { text: "Books", link: "/media/books/" },
-            { text: "Slack Communities", link: "/media/slack/" },
-            { text: "Blogs/Newsletters", link: "/media/blogs/" },
+          {
+            text: "Podcasts",
+            link: "/media/podcasts/",
+          },
+          {
+            text: "Books",
+            link: "/media/books/",
+          },
+          {
+            text: "Slack Communities",
+            link: "/media/slack/",
+          },
+          {
+            text: "Blogs/Newsletters",
+            link: "/media/blogs/",
+          },
         ],
       },
     ],
@@ -72,7 +115,10 @@ export default {
       text: "Edit this page on GitHub",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/herrardo/state-of-product" },
+      {
+        icon: "github",
+        link: "https://github.com/herrardo/state-of-product",
+      },
     ],
     footer: {
       message: `Released under the MIT License.<br /><a href="https://www.flaticon.com/free-icons/product">Product icons created by Freepik - Flaticon</a>`,

@@ -7,7 +7,9 @@ head:
       content: Product Management Events List - 2023
   - - meta
     - name: keywords
-      content: product,product manager,product management,product owner,events,product owner
+      content:
+        product,product manager,product management,product owner,events,product
+        owner
 ---
 
 # {{ $frontmatter.title }}
