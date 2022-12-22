@@ -96,7 +96,7 @@ You can create an issue by filling in the
 Before creating a new bug issue, do a quick check to make sure the issue hasn’t
 been discussed or created before in the project.
 
-### Set up your development environment
+## Set up your development environment
 
 If you want to download the project and run it on your laptop to check how your
 changes are working, follow these steps.

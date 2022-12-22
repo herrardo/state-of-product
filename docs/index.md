@@ -15,7 +15,7 @@ hero:
 features:
   - icon: 🗣️
     title: 2023 Product Management Events
-    link: /events/2023/
+    link: /events/2023/product.html
   - icon: 👩‍🎓
     title: Product Management Certifications
     link: /certifications/scrum/
