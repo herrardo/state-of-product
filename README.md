@@ -115,6 +115,8 @@ This project is deployed with GH Pages in this URL:
 
 Every new commit to main in the project automatically deploys.
 
+This is a ver long line to test the prettier format automation in the format workflow placed to be launched in Github every time and external contrbutor opens a pull request.
+
 ## :compass: Roadmap
 
 - [x] Add Product Events
