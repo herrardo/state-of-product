@@ -7,11 +7,11 @@ hero:
   tagline: This site is maintained through a open-source project.
   image:
     src: assets/logo-color.png
-    alt: VitePress
+    alt: State of the Product Logo
   actions:
     - theme: brand
       text: Contribute!
-      link: https://github.com/herrardo/state-of-product
+      link: https://github.com/herrardo/state-of-product/blob/main/.github/CONTRIBUTING.md
 features:
   - icon: 🗣️
     title: 2023 Product Management Events
@@ -19,4 +19,10 @@ features:
   - icon: 👩‍🎓
     title: Product Management Certifications
     link: /certifications/scrum/
+  - icon: 🧑‍🏫
+    title: Product Management Courses
+    link: /courses/
+  - icon: 📚
+    title: Books, Podcasts, Blogs, Slack channels
+    link: /media/books/
 ---
