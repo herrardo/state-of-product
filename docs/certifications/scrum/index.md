@@ -41,6 +41,8 @@ creation and delivery.
   [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 - Passwords have no expiration date, but are valid for one attempt only
 - Lifetime certification - no annual renewal fee required :::
+:::
+
 
 ## PSPO II
 
@@ -69,6 +71,8 @@ framework and delivering valuable products.
   [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 - Passwords have no expiration date, but are valid for one attempt only
 - Lifetime certification - no annual renewal fee required :::
+:::
+
 
 ## PSPO III
 
@@ -102,6 +106,8 @@ should have in-depth Scrum and Product Owner experience.
   [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 - Passwords have no expiration date, but are valid for one attempt only
 - Lifetime certification - no annual renewal fee required :::
+:::
+
 
 ## PAL-EBM
 
@@ -124,3 +130,4 @@ of the Evidence-Based Management (EBM) framework.
 - Practice assessments: [EBM Open](https://www.scrum.org/node/30876)
 - Passwords have no expiration date, but are valid for one attempt only
 - Lifetime certification - no annual renewal fee required :::
+:::

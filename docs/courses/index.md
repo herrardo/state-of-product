@@ -29,7 +29,8 @@ head:
 - [Product Management Fundamentals](https://productinstitute.com/) by Product
   Institute
 - [Product School Trainings](https://productschool.com/)
-- [One Month PM](https://onemonthpm.com/) :::
+- [One Month PM](https://onemonthpm.com/) 
+  :::
 
 ## If you're growing your PM career :rocket:
 
@@ -49,7 +50,8 @@ head:
 - [Data-Driven Decisions Workshop](https://www.h2rproductscience.com/data-driven-product-decisions-workshop)
   by H2R Product Science
 - [Hooked Workshop](https://www.nirandfar.com/hooked-workshop/) by Nir Eyal
-- [Reforge Programs](https://www.reforge.com/all-programs) :::
+- [Reforge Programs](https://www.reforge.com/all-programs) 
+  :::
 
 ## If you're moving into a leadership track :trophy:
 
@@ -61,4 +63,5 @@ head:
 - [Product Management Executive Programme](https://www.insead.edu/executive-education/partner-programmes/product-management-executive-overview)
   by INSEAD
 - [Innovative Product Leadership: The Emerging Chief Product Officer](https://www.gsb.stanford.edu/exec-ed/programs/innovative-product-leadership)
-  by Stanford Business School :::
+  by Stanford Business School 
+  :::

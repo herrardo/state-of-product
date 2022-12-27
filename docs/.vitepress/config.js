@@ -29,6 +29,13 @@ export default {
         src: "https://plausible.io/js/script.js",
       },
     ],
+    [
+      "meta",
+      {
+        name: "google-site-verification",
+        content: "B4GLSpvMeuym9RTuXF9kfGtkWVzt3RgtecaORHQo5sI",
+      },
+    ],
   ],
   lang: "en-US",
   themeConfig: {
