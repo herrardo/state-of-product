@@ -1,6 +1,6 @@
 ---
 layout: home
-
+title: Product Management resources for training, events, courses, books, podcasts
 hero:
   name: State Of The Product
   text: Events, conferences, certifications... And more, up to you!
