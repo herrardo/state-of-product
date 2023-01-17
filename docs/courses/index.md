@@ -29,7 +29,9 @@ head:
 - [Product Management Fundamentals](https://productinstitute.com/) by Product
   Institute
 - [Product School Trainings](https://productschool.com/)
-- [One Month PM](https://onemonthpm.com/) :::
+- [One Month PM](https://onemonthpm.com/) 
+
+:::
 
 ## If you're growing your PM career :rocket:
 
