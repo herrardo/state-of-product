@@ -51,6 +51,9 @@ head:
   by H2R Product Science
 - [Hooked Workshop](https://www.nirandfar.com/hooked-workshop/) by Nir Eyal
 - [Reforge Programs](https://www.reforge.com/all-programs) 
+- [Product Design by Google](https://www.udacity.com/course/product-design--ud509) 
+- [Becoming a Product Manager: A Complete Guide](https://www.linkedin.com/learning/paths/become-a-product-manager-2) 
+- [Product-led Certification Course by Pendo](https://www.productledcertified.com/get-started) 
   :::
 
 ## If you're moving into a leadership track :trophy:
