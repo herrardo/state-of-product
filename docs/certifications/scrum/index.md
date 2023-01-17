@@ -1,11 +1,11 @@
 ---
-title: Product Management Scrum Certifications
+title: Product Management Scrum.org Certifications
 lang: en-US
 head:
   - - meta
     - name: description
       content:
-        This is a summary of the Scrum certifications related to Product
+        This is a summary of the Scrum.org certifications related to Product
         Management
   - - meta
     - name: keywords
@@ -24,8 +24,8 @@ The Professional Scrum Product Owner (PSPO I) certification validates your
 knowledge of the Scrum framework and your ability to support and enable value
 creation and delivery.
 
-::: info
-[INFO](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
+::: tip Earning the certification
+[Official info](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
 
 - $200 USD per attempt
 - Passing score: 85%
@@ -40,9 +40,9 @@ creation and delivery.
   [Product Owner Open](https://www.scrum.org/open-assessments/product-owner-open),
   [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 - Passwords have no expiration date, but are valid for one attempt only
-- Lifetime certification - no annual renewal fee required :::
-:::
+- Lifetime certification - no annual renewal fee required
 
+:::
 
 ## PSPO II
 
@@ -50,8 +50,8 @@ The Professional Scrum Product Owner II (PSPO II) certification validates your
 understanding of advanced Professional Scrum Product Ownership, the Scrum
 framework and delivering valuable products.
 
-::: info
-[INFO](https://www.scrum.org/assessments/professional-scrum-product-owner-ii-assessment)
+::: tip Earning the certification
+[Official info](https://www.scrum.org/assessments/professional-scrum-product-owner-ii-assessment)
 
 - $250 USD per attempt
 - Passing score: 85%
@@ -70,9 +70,9 @@ framework and delivering valuable products.
   [Evidence-Based Management Open](https://www.scrum.org/assessments/evidence-based-management-open),
   [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 - Passwords have no expiration date, but are valid for one attempt only
-- Lifetime certification - no annual renewal fee required :::
-:::
+- Lifetime certification - no annual renewal fee required
 
+:::
 
 ## PSPO III
 
@@ -81,8 +81,8 @@ validates your ability to apply the Scrum framework to solve complex problems
 and deliver valuable products in the real world. Anyone attempting the PSPO III
 should have in-depth Scrum and Product Owner experience.
 
-::: info
-[INFO](https://www.scrum.org/assessments/professional-scrum-product-owner-iii-assessment)
+::: tip Earning the certification
+[Official info](https://www.scrum.org/assessments/professional-scrum-product-owner-iii-assessment)
 
 - $500 USD per attempt
 - Passing score: 85%
@@ -105,9 +105,9 @@ should have in-depth Scrum and Product Owner experience.
   [Product Owner Open](https://www.scrum.org/open-assessments/product-owner-open),
   [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
 - Passwords have no expiration date, but are valid for one attempt only
-- Lifetime certification - no annual renewal fee required :::
-:::
+- Lifetime certification - no annual renewal fee required
 
+:::
 
 ## PAL-EBM
 
@@ -115,8 +115,8 @@ The Professional Agile Leadership™ - Evidence-Based Management™ (PAL-EBM)
 certification validates that you are a leader with a fundamental understanding
 of the Evidence-Based Management (EBM) framework.
 
-::: info
-[INFO](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification)
+::: tip Earning the certification
+[Official info](https://www.scrum.org/assessments/professional-agile-leadership-evidence-based-management-certification)
 
 - $200 USD per attempt
 - Passing score: 85%
@@ -129,5 +129,6 @@ of the Evidence-Based Management (EBM) framework.
   - Course provide 2 assessment attempts.
 - Practice assessments: [EBM Open](https://www.scrum.org/node/30876)
 - Passwords have no expiration date, but are valid for one attempt only
-- Lifetime certification - no annual renewal fee required :::
+- Lifetime certification - no annual renewal fee required
+
 :::

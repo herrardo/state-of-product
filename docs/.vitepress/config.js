@@ -87,8 +87,12 @@ export default {
         text: "Certifications",
         items: [
           {
-            text: "scrum.org",
+            text: "Scrum.org",
             link: "/certifications/scrum/",
+          },
+          {
+            text: "Scrum Alliance",
+            link: "/certifications/scrum-alliance/",
           },
         ],
       },
