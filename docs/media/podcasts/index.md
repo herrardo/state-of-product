@@ -24,4 +24,5 @@ head:
 - [Masters of Scale](https://podcasts.apple.com/us/podcast/masters-of-scale/id1227971746)
 - [The Product Podcast](https://open.spotify.com/show/1XBrhVLsQOIAv3KFBqnzrX?si=cb84fb44388d457c&nd=1)
 - [The Humanizing Work Show](https://www.humanizingwork.com/humanizing-work-show/)
+- [Lenny's Podcast: Product | Growth | Career](https://podcasts.apple.com/us/podcast/lennys-podcast-product-growth-career/id1627920305)
   :::
