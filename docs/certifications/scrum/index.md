@@ -74,6 +74,18 @@ framework and delivering valuable products.
 
 :::
 
+::: info Non official practice assesment
+
+- [(PSPO II ™) 10 questions by Tech Agilist](https://www.techagilist.com/practice-exams/pspo-ii-practice-test/pspo-ii-practice-exam-practice-mode-questions/)
+  :free:
+- [(PSPO II ™) Practice Exams by Tech Agilist at Udemy](https://www.udemy.com/course/professional-scrum-product-owner-ii-pspo-ii-practice-exams/)
+  11.99€
+- [Scrum-exams.info](https://scrum-exams.info/pspo-ii/) :free:
+- [ProcessExam](https://www.processexam.com/scrum-org/scrum-org-pspo-ii-certification-exam-sample-questions)
+  :free:
+
+:::
+
 ## PSPO III
 
 The Professional Scrum Product Owner level III (PSPO III) certification
