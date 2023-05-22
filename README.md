@@ -115,10 +115,6 @@ This project is deployed with GH Pages in this URL:
 
 Every new commit to main in the project automatically deploys.
 
-## :compass: Roadmap
-
-- [x] Add Product Events
-- [ ] Add Product Certifications
 
 <!-- Contributing -->
 
