@@ -91,6 +91,7 @@ head:
 |    Oct    | [ProductCon San Francisco](https://productschool.com/productcon/san-francisco/) |         SF Area |
 |  Oct 2-4  | [Industry Product Conference Global](https://www.industryconference.com/global) |       Cleveland |
 | Oct 11–13 | [UXDX EMEA](https://uxdx.com/emea/2023/)                                        | Dublin & online |
+|  Oct 13   | [just product](https://justproduct.de/)                                         | Munich & online |
 
 ## November
 
