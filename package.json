@@ -23,11 +23,12 @@
   "devDependencies": {
     "prettier": "2.8.1",
     "sitemap": "^7.1.1",
-    "vitepress": "^1.0.0-alpha.31",
-    "vue": "^3.2.45"
+    "vitepress": "^1.0.0-rc.4",
+    "vue": "^3.3.4"
   },
   "prettier": {
     "printWidth": 80,
     "proseWrap": "always"
-  }
+  },
+  "type": "module"
 }
