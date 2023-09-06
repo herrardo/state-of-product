@@ -31,10 +31,19 @@ export default {
     [
       "script",
       {
-        defer: true,
-        "data-domain": "herrardo.github.io/state-of-product",
-        src: "https://plausible.io/js/script.js",
-      },
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=G-VNWGKBZDG6",
+      }
+    ],
+    [
+      "script",
+      {},
+      `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-VNWGKBZDG6');
+      `
     ],
     [
       "meta",
