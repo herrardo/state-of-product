@@ -1,0 +1,11 @@
+name: Prepare stable release
+on: [workflow_dispatch]
+description: Warning - Be sure that last chore commit has a green pipeline before lauhching this workflow
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test
+        run: echo 'what'
+     
