@@ -24,5 +24,6 @@ head:
 - [Product Craft](https://productcraftworkspace.slack.com/join/shared_invite/zt-e4ww96sh-d2vXdDpeJ3PvDuK68l8aUA#/shared-invite/email)
 - [Mind the Product](https://mindtheproduct.slack.com/join/shared_invite/zt-4h9mzsyr-SvSggVTaY59DtPSxk5KH8w#/shared-invite/email)
 - [Productized](https://productizeandscale.com/join/)
-- [Productbeats](https://productbeats.com/home)
+- [Productbeats](https://productbeats.com/home) 
+
 :::

@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Product Management resources for training, events, courses, books, podcasts
+title:
+  Product Management resources for training, events, courses, books, podcasts
 hero:
   name: State Of The Product
   text: Events, conferences, certifications... And more, up to you!
@@ -14,8 +15,8 @@ hero:
       link: https://github.com/herrardo/state-of-product/blob/main/.github/CONTRIBUTING.md
 features:
   - icon: 🗣️
-    title: 2023 Product Management Events
-    link: /events/2023/product.html
+    title: 2024 Product Management Events
+    link: /events/2024/product.html
   - icon: 👩‍🎓
     title: Product Management Certifications
     link: /certifications/scrum/
