@@ -33,7 +33,7 @@ export default {
       {
         async: true,
         src: "https://www.googletagmanager.com/gtag/js?id=G-VNWGKBZDG6",
-      }
+      },
     ],
     [
       "script",
@@ -43,7 +43,7 @@ export default {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'G-VNWGKBZDG6');
-      `
+      `,
     ],
     [
       "meta",
@@ -59,7 +59,7 @@ export default {
     nav: [
       {
         text: "Events",
-        link: "/events/2023/product.md",
+        link: "/events/2024/product.md",
       },
       {
         text: "Certifications",
@@ -78,6 +78,10 @@ export default {
       {
         text: "Events",
         items: [
+          {
+            text: "2024 Product Events",
+            link: "/events/2024/product.md",
+          },
           {
             text: "2023 Product Events",
             link: "/events/2023/product.md",

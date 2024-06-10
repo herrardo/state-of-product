@@ -115,7 +115,6 @@ This project is deployed with GH Pages in this URL:
 
 Every new commit to main in the project automatically deploys.
 
-
 <!-- Contributing -->
 
 ## :wave: Contributing

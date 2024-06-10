@@ -24,17 +24,20 @@ head:
 - [Jeff Patton's Blog](https://www.jpattonassociates.com/login/)
 - [David Bland's Blog](https://davidjbland.medium.com/)
 - [UX Blog](https://www.uie.com/) by Jared Spool
-- [The Experience is the Product](https://www.cindyalvarez.com/blog/) by Cindy Alvarez
-:::
+- [The Experience is the Product](https://www.cindyalvarez.com/blog/) by Cindy
+  Alvarez
 
+  :::
 
 ## Newsletters :page_with_curl:
 
 :::info
+
 - [The Grasshoper Herder](https://grasshopperherder.com/) by Tristan Kromer
 - [Users Know](https://www.usersknow.com/blog/) by Laura Klein
 - [Product Bytes](https://www.mironov.com/) by Rich Mironov
 - [Product Talk](https://www.producttalk.org/blog/) by Teresa Torres
 - [Ask Gib](https://askgib.substack.com/) by Gibson Biddle
 - [Bringing the Donuts](https://www.bringthedonuts.com/) by Ken Korton
+
 :::

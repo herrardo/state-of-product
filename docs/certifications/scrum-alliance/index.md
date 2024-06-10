@@ -45,14 +45,15 @@ piece of value to bring to market for them.
 
 - No assessment
 - Mandatory
-  [course](https://www.scrumalliance.org/courses-events/search/coursedetail/202213921) example
+  [course](https://www.scrumalliance.org/courses-events/search/coursedetail/202213921)
+  example
 - Regular Course price $800-$1200
 - Available sales on different schools, check all
   [course options](https://www.scrumalliance.org/courses-events/search?ctyp=Cspo&vo=true&rad=30&tz=my&pg=1)
 - Two-year membership to the Scrum Alliance included
 - Renewal
   [policy](https://www.scrumalliance.org/get-certified/renewing-certifications)
-  every 2 years 
+  every 2 years
 
 :::
 
@@ -73,10 +74,12 @@ Through the A-CSPO, you’ll learn to:
 ::: tip Earning the certification
 [Official info](https://www.scrumalliance.org/get-certified/product-owner-track/advanced-certified-scrum-product-owner)
 
-- Requires: Hold a Certified Scrum Product Owner® (CSPO) certification with the Scrum Alliance.
+- Requires: Hold a Certified Scrum Product Owner® (CSPO) certification with the
+  Scrum Alliance.
 - No assessment
 - Mandatory
-  [course](https://www.scrumalliance.org/courses-events/search/coursedetail/202215597) example
+  [course](https://www.scrumalliance.org/courses-events/search/coursedetail/202215597)
+  example
 - Regular Course price $800-$1200
 - Available sales on different schools, check all
   [course options](https://www.scrumalliance.org/courses-events/search?ctyp=AdvCspo&vo=true&rad=30&tz=my&pg=1)
@@ -89,20 +92,24 @@ Through the A-CSPO, you’ll learn to:
 
 ## Certified Scrum Professional - Product Owner®
 
-Aside from the pride gained and earning potential of attaining CSP® level, you can also:
+Aside from the pride gained and earning potential of attaining CSP® level, you
+can also:
 
 - Attend exclusive CSP events with other leaders in Agile and Scrum
 - Attract more recruiters and command a higher rate of pay
 - Establish a gateway and milestone toward becoming CST®, CEC, or CTC
-- Receive a free Premium subscription to the world's largest Agile assessment and continuous improvement platform, Comparative Agility®
+- Receive a free Premium subscription to the world's largest Agile assessment
+  and continuous improvement platform, Comparative Agility®
 
 ::: tip Earning the certification
 [Official info](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-professional-product-owner)
 
-- Requires: Hold an Advanced Certified Product OwnerSM (A-CSPOSM) certification with Scrum Alliance.
+- Requires: Hold an Advanced Certified Product OwnerSM (A-CSPOSM) certification
+  with Scrum Alliance.
 - No assessment
 - Mandatory
-  [course](https://www.scrumalliance.org/courses-events/search/coursedetail/202300307) example
+  [course](https://www.scrumalliance.org/courses-events/search/coursedetail/202300307)
+  example
 - Regular Course price $1,400-$2,000
 - Available sales on different schools, check all
   [course options](https://www.scrumalliance.org/courses-events/search?ctyp=CspPo&vo=true&rad=30&tz=my&pg=1)
@@ -112,4 +119,3 @@ Aside from the pride gained and earning potential of attaining CSP® level, you 
   every 2 years
 
 :::
-
